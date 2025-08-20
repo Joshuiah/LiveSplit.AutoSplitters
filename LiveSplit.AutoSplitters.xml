@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+        <Games>
+            <Game>Anominal</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Joshuiah/Anominal/refs/heads/main/Anominal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatically start, split, and reset</Description>
+    </AutoSplitter>
+    <AutoSplitter>
 	    <Games>
 		    <Game>Wizard101</Game>
 		    <Game>Wizard101 Category Extension</Game>
